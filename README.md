@@ -1,4 +1,6 @@
 # What will we do in this project?
+## [Detailed Project](https://nbviewer.org/github/davidefilosa/SurvivalAnalysis/blob/master/Survival%20Analysis%20.ipynb)
+
 
 ### In this project we will take a look at the survival rate of patients with advanced lung cancer.
 
